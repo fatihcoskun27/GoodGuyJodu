@@ -899,7 +899,7 @@ namespace DetuksSharp
         //Azir stuff
 
         public static int azirSoliderReach= 375;
-        public static int azirSoliderRange = 325;
+        public static int azirSoliderRange = 330;
         //Tnx Kortatu ;)
         private static Dictionary<int, string> Animations = new Dictionary<int, string>();
 
